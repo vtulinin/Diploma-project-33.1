@@ -84,4 +84,3 @@ class NewPassPage(BasePage):
     def btn_click_continue(self):
         self.btn.click()
         time.sleep(10)
- 
